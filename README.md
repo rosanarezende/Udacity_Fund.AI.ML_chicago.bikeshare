@@ -27,5 +27,6 @@ Utilize o Python para compreender dados de um serviço de compartilhamento de bi
 
 ### Arquivo de dados
 
-O arquivo não pode ser carregado no Github em razão do tamanho. Pode ser encontrado no link:
+O arquivo não pode ser carregado no Github em razão do tamanho. 
+Pode ser encontrado no link: https://1drv.ms/u/s!Ak6L3aTlMwHEpqQ3-7SX8vmNBHkE2A?e=MY9uE8
 
