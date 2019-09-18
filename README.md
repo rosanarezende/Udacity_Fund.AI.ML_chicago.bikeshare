@@ -1,4 +1,4 @@
-# UdacityUdacity - Programa Nanodegree Fundamentos de AI & Machine Learning
+# Udacity - Programa Nanodegree Fundamentos de AI & Machine Learning
 
 ## Aula: Introdução a Python
 
